@@ -1,1 +1,2 @@
 # E-commerce-website-project-
+The eCommerce project is designed to create a user-centric online shopping platform that prioritizes an intuitive and seamless user experience. The focus is on developing a website that offers a range of functionalities to enhance user engagement and satisfaction without integrating payment gateways. Key features include a blog section for content marketing, discount offers to incentivize purchases, a QR code generator for easy product sharing, robust cart management, and secure user authentication through login/signup processes.
